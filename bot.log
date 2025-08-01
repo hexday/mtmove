@@ -1,0 +1,882 @@
+2025-08-01 09:04:36,154 - __main__ - INFO - ==================================================
+2025-08-01 09:04:36,155 - __main__ - INFO - 🎬 ربات آپلودر فیلم و سریال
+2025-08-01 09:04:36,155 - __main__ - INFO - ==================================================
+2025-08-01 09:04:36,155 - __main__ - INFO - 🚀 شروع مقداردهی ربات...
+2025-08-01 09:04:36,155 - config - INFO - ✅ تنظیمات معتبر است
+2025-08-01 09:04:36,156 - config - INFO - 📁 دایرکتوری ایجاد شد: temp
+2025-08-01 09:04:36,156 - config - INFO - 📁 دایرکتوری ایجاد شد: downloads
+2025-08-01 09:04:36,156 - database - INFO - 🔌 در حال اتصال به MongoDB...
+2025-08-01 09:04:36,236 - database - INFO - ✅ ایندکس‌ها ایجاد شدند
+2025-08-01 09:04:36,237 - database - INFO - ✅ اتصال به MongoDB برقرار شد
+2025-08-01 09:04:36,917 - __main__ - INFO - ✅ اپلیکیشن تلگرام ایجاد شد
+2025-08-01 09:04:36,917 - __main__ - INFO - ✅ مدیر فایل ایجاد شد
+2025-08-01 09:04:36,918 - handlers - INFO - ✅ AdminPanel مقداردهی شد
+2025-08-01 09:04:36,919 - handlers - INFO - ✅ مکالمه ایجاد مجموعه تنظیم شد
+2025-08-01 09:04:36,920 - handlers - INFO - ✅ تمام هندلرها تنظیم شدند
+2025-08-01 09:04:36,920 - __main__ - INFO - ✅ هندلرها تنظیم شدند
+2025-08-01 09:04:36,920 - __main__ - INFO - 🎉 ربات آماده به کار است!
+2025-08-01 09:04:36,920 - __main__ - INFO - 🔄 شروع ربات...
+2025-08-01 09:04:36,920 - download_manager - INFO - ✅ HTTP session شروع شد
+2025-08-01 09:04:38,264 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8474219073:AAGRsOQvzpr2vkreux8MAtCfPwqKNzyLvt0/getMe "HTTP/1.1 200 OK"
+2025-08-01 09:04:38,265 - telegram.ext.Application - INFO - Application started
+2025-08-01 09:04:38,265 - __main__ - ERROR - ❌ خطا در اجرای ربات: This Application is still running!
+2025-08-01 09:04:38,265 - __main__ - INFO - 🧹 پاکسازی منابع...
+2025-08-01 09:04:38,265 - download_manager - INFO - 🔒 HTTP session بسته شد
+2025-08-01 09:04:38,266 - file_manager - ERROR - ❌ خطا در پاک‌سازی: name 'datetime' is not defined
+2025-08-01 09:04:38,267 - database - INFO - 🔌 اتصال MongoDB قطع شد
+2025-08-01 09:04:38,267 - __main__ - INFO - ✅ پاکسازی تکمیل شد
+2025-08-01 09:04:38,267 - __main__ - ERROR - ❌ ربات با خطا متوقف شد
+2025-08-01 09:12:01,145 - __main__ - INFO - ==================================================
+2025-08-01 09:12:01,145 - __main__ - INFO - 🎬 ربات آپلودر فیلم و سریال
+2025-08-01 09:12:01,145 - __main__ - INFO - ==================================================
+2025-08-01 09:12:01,145 - __main__ - INFO - 🚀 شروع مقداردهی ربات...
+2025-08-01 09:12:01,146 - config - INFO - ✅ تنظیمات معتبر است
+2025-08-01 09:12:01,146 - config - INFO - 📁 دایرکتوری ایجاد شد: temp
+2025-08-01 09:12:01,146 - config - INFO - 📁 دایرکتوری ایجاد شد: downloads
+2025-08-01 09:12:01,146 - database - INFO - 🔌 در حال اتصال به MongoDB...
+2025-08-01 09:12:01,164 - database - INFO - ✅ ایندکس‌ها ایجاد شدند
+2025-08-01 09:12:01,164 - database - INFO - ✅ اتصال به MongoDB برقرار شد
+2025-08-01 09:12:01,809 - __main__ - INFO - ✅ اپلیکیشن تلگرام ایجاد شد
+2025-08-01 09:12:01,810 - __main__ - INFO - ✅ مدیر فایل ایجاد شد
+2025-08-01 09:12:01,810 - handlers - INFO - ✅ AdminPanel مقداردهی شد
+2025-08-01 09:12:01,812 - handlers - INFO - ✅ مکالمه ایجاد مجموعه تنظیم شد
+2025-08-01 09:12:01,812 - handlers - INFO - ✅ تمام هندلرها تنظیم شدند
+2025-08-01 09:12:01,812 - __main__ - INFO - ✅ هندلرها تنظیم شدند
+2025-08-01 09:12:01,813 - __main__ - INFO - 🎉 ربات آماده به کار است!
+2025-08-01 09:12:01,813 - __main__ - INFO - 🔄 شروع ربات...
+2025-08-01 09:12:01,813 - download_manager - INFO - ✅ HTTP session شروع شد
+2025-08-01 09:12:05,196 - httpx - INFO - HTTP Request: POST https://api.telegram.org/botYOUR_BOT_TOKEN_HERE/getMe "HTTP/1.1 404 Not Found"
+2025-08-01 09:12:05,197 - __main__ - ERROR - ❌ خطا در اجرای ربات: The token `YOUR_BOT_TOKEN_HERE` was rejected by the server.
+2025-08-01 09:12:05,197 - __main__ - INFO - 🧹 پاکسازی منابع...
+2025-08-01 09:12:05,197 - download_manager - INFO - 🔒 HTTP session بسته شد
+2025-08-01 09:12:05,199 - database - INFO - 🔌 اتصال MongoDB قطع شد
+2025-08-01 09:12:05,199 - __main__ - INFO - ✅ پاکسازی تکمیل شد
+2025-08-01 09:12:05,199 - __main__ - ERROR - ❌ ربات با خطا متوقف شد
+2025-08-01 09:13:09,164 - __main__ - INFO - ==================================================
+2025-08-01 09:13:09,164 - __main__ - INFO - 🎬 ربات آپلودر فیلم و سریال
+2025-08-01 09:13:09,165 - __main__ - INFO - ==================================================
+2025-08-01 09:13:09,165 - __main__ - INFO - 🚀 شروع مقداردهی ربات...
+2025-08-01 09:13:09,165 - config - INFO - ✅ تنظیمات معتبر است
+2025-08-01 09:13:09,165 - config - INFO - 📁 دایرکتوری ایجاد شد: temp
+2025-08-01 09:13:09,165 - config - INFO - 📁 دایرکتوری ایجاد شد: downloads
+2025-08-01 09:13:09,165 - database - INFO - 🔌 در حال اتصال به MongoDB...
+2025-08-01 09:13:09,185 - database - INFO - ✅ ایندکس‌ها ایجاد شدند
+2025-08-01 09:13:09,185 - database - INFO - ✅ اتصال به MongoDB برقرار شد
+2025-08-01 09:13:09,837 - __main__ - INFO - ✅ اپلیکیشن تلگرام ایجاد شد
+2025-08-01 09:13:09,837 - __main__ - INFO - ✅ مدیر فایل ایجاد شد
+2025-08-01 09:13:09,838 - handlers - INFO - ✅ AdminPanel مقداردهی شد
+2025-08-01 09:13:09,840 - handlers - INFO - ✅ مکالمه ایجاد مجموعه تنظیم شد
+2025-08-01 09:13:09,840 - handlers - INFO - ✅ تمام هندلرها تنظیم شدند
+2025-08-01 09:13:09,840 - __main__ - INFO - ✅ هندلرها تنظیم شدند
+2025-08-01 09:13:09,840 - __main__ - INFO - 🎉 ربات آماده به کار است!
+2025-08-01 09:13:09,841 - __main__ - INFO - 🔄 شروع ربات...
+2025-08-01 09:13:09,841 - download_manager - INFO - ✅ HTTP session شروع شد
+2025-08-01 09:13:11,106 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8474219073:AAGRsOQvzpr2vkreux8MAtCfPwqKNzyLvt0/getMe "HTTP/1.1 200 OK"
+2025-08-01 09:13:11,107 - telegram.ext.Application - INFO - Application started
+2025-08-01 09:13:11,107 - __main__ - ERROR - ❌ خطا در اجرای ربات: Updater.start_polling() got an unexpected keyword argument 'read_timeout'
+2025-08-01 09:13:11,107 - __main__ - INFO - 🧹 پاکسازی منابع...
+2025-08-01 09:13:11,107 - download_manager - INFO - 🔒 HTTP session بسته شد
+2025-08-01 09:13:11,108 - database - INFO - 🔌 اتصال MongoDB قطع شد
+2025-08-01 09:13:11,109 - __main__ - INFO - ✅ پاکسازی تکمیل شد
+2025-08-01 09:13:11,109 - __main__ - ERROR - ❌ ربات با خطا متوقف شد
+2025-08-01 09:16:46,402 - __main__ - INFO - ==================================================
+2025-08-01 09:16:46,403 - __main__ - INFO - 🎬 ربات آپلودر فیلم و سریال
+2025-08-01 09:16:46,403 - __main__ - INFO - ==================================================
+2025-08-01 09:16:46,403 - __main__ - INFO - 🚀 شروع مقداردهی ربات...
+2025-08-01 09:16:46,403 - config - INFO - ✅ تنظیمات معتبر است
+2025-08-01 09:16:46,403 - config - INFO - 📁 دایرکتوری ایجاد شد: temp
+2025-08-01 09:16:46,404 - config - INFO - 📁 دایرکتوری ایجاد شد: downloads
+2025-08-01 09:16:46,404 - database - INFO - 🔌 در حال اتصال به MongoDB...
+2025-08-01 09:16:46,422 - database - INFO - ✅ ایندکس‌ها ایجاد شدند
+2025-08-01 09:16:46,423 - database - INFO - ✅ اتصال به MongoDB برقرار شد
+2025-08-01 09:16:47,054 - __main__ - INFO - ✅ اپلیکیشن تلگرام ایجاد شد
+2025-08-01 09:16:47,054 - __main__ - INFO - ✅ مدیر فایل ایجاد شد
+2025-08-01 09:16:47,054 - handlers - INFO - ✅ AdminPanel مقداردهی شد
+2025-08-01 09:16:47,056 - handlers - INFO - ✅ مکالمه ایجاد مجموعه تنظیم شد
+2025-08-01 09:16:47,057 - handlers - INFO - ✅ تمام هندلرها تنظیم شدند
+2025-08-01 09:16:47,057 - __main__ - INFO - ✅ هندلرها تنظیم شدند
+2025-08-01 09:16:47,057 - __main__ - INFO - 🎉 ربات آماده به کار است!
+2025-08-01 09:16:47,057 - __main__ - INFO - 🔄 شروع ربات...
+2025-08-01 09:16:47,057 - download_manager - INFO - ✅ HTTP session شروع شد
+2025-08-01 09:16:49,248 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8474219073:AAGRsOQvzpr2vkreux8MAtCfPwqKNzyLvt0/getMe "HTTP/1.1 200 OK"
+2025-08-01 09:16:49,249 - telegram.ext.Application - INFO - Application started
+2025-08-01 09:16:50,121 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8474219073:AAGRsOQvzpr2vkreux8MAtCfPwqKNzyLvt0/deleteWebhook "HTTP/1.1 200 OK"
+2025-08-01 09:16:50,121 - __main__ - INFO - ✅ ربات شروع شد و منتظر پیام‌ها است
+2025-08-01 09:16:55,501 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8474219073:AAGRsOQvzpr2vkreux8MAtCfPwqKNzyLvt0/getUpdates "HTTP/1.1 409 Conflict"
+2025-08-01 09:16:55,501 - telegram.ext.Updater - ERROR - Exception happened while polling for updates.
+Traceback (most recent call last):
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\ext\_utils\networkloop.py", line 115, in network_retry_loop
+    if not await do_action():
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\ext\_utils\networkloop.py", line 108, in do_action
+    return action_cb_task.result()
+           ~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\ext\_updater.py", line 340, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\ext\_extbot.py", line 670, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<9 lines>...
+    )
+    ^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\_bot.py", line 4611, in get_updates
+    await self._post(
+    ^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    ),
+    ^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\_bot.py", line 698, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\ext\_extbot.py", line 370, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\_bot.py", line 727, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\request\_baserequest.py", line 197, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\request\_baserequest.py", line 374, in _request_wrapper
+    raise exception
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-08-01 09:17:03,289 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8474219073:AAGRsOQvzpr2vkreux8MAtCfPwqKNzyLvt0/getUpdates "HTTP/1.1 409 Conflict"
+2025-08-01 09:17:03,290 - telegram.ext.Updater - ERROR - Exception happened while polling for updates.
+Traceback (most recent call last):
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\ext\_utils\networkloop.py", line 115, in network_retry_loop
+    if not await do_action():
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\ext\_utils\networkloop.py", line 108, in do_action
+    return action_cb_task.result()
+           ~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\ext\_updater.py", line 340, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\ext\_extbot.py", line 670, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<9 lines>...
+    )
+    ^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\_bot.py", line 4611, in get_updates
+    await self._post(
+    ^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    ),
+    ^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\_bot.py", line 698, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\ext\_extbot.py", line 370, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\_bot.py", line 727, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\request\_baserequest.py", line 197, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\request\_baserequest.py", line 374, in _request_wrapper
+    raise exception
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-08-01 09:17:06,836 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8474219073:AAGRsOQvzpr2vkreux8MAtCfPwqKNzyLvt0/getUpdates "HTTP/1.1 200 OK"
+2025-08-01 09:17:08,285 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8474219073:AAGRsOQvzpr2vkreux8MAtCfPwqKNzyLvt0/sendMessage "HTTP/1.1 200 OK"
+2025-08-01 09:17:09,496 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8474219073:AAGRsOQvzpr2vkreux8MAtCfPwqKNzyLvt0/getUpdates "HTTP/1.1 409 Conflict"
+2025-08-01 09:17:09,497 - telegram.ext.Updater - ERROR - Exception happened while polling for updates.
+Traceback (most recent call last):
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\ext\_utils\networkloop.py", line 115, in network_retry_loop
+    if not await do_action():
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\ext\_utils\networkloop.py", line 108, in do_action
+    return action_cb_task.result()
+           ~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\ext\_updater.py", line 340, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\ext\_extbot.py", line 670, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<9 lines>...
+    )
+    ^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\_bot.py", line 4611, in get_updates
+    await self._post(
+    ^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    ),
+    ^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\_bot.py", line 698, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\ext\_extbot.py", line 370, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\_bot.py", line 727, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\request\_baserequest.py", line 197, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\request\_baserequest.py", line 374, in _request_wrapper
+    raise exception
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-08-01 09:17:14,443 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8474219073:AAGRsOQvzpr2vkreux8MAtCfPwqKNzyLvt0/getUpdates "HTTP/1.1 200 OK"
+2025-08-01 09:17:18,191 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8474219073:AAGRsOQvzpr2vkreux8MAtCfPwqKNzyLvt0/getUpdates "HTTP/1.1 409 Conflict"
+2025-08-01 09:17:18,192 - telegram.ext.Updater - ERROR - Exception happened while polling for updates.
+Traceback (most recent call last):
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\ext\_utils\networkloop.py", line 115, in network_retry_loop
+    if not await do_action():
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\ext\_utils\networkloop.py", line 108, in do_action
+    return action_cb_task.result()
+           ~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\ext\_updater.py", line 340, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\ext\_extbot.py", line 670, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<9 lines>...
+    )
+    ^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\_bot.py", line 4611, in get_updates
+    await self._post(
+    ^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    ),
+    ^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\_bot.py", line 698, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\ext\_extbot.py", line 370, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\_bot.py", line 727, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\request\_baserequest.py", line 197, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\request\_baserequest.py", line 374, in _request_wrapper
+    raise exception
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-08-01 09:17:18,218 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8474219073:AAGRsOQvzpr2vkreux8MAtCfPwqKNzyLvt0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-08-01 09:17:18,229 - database - ERROR - ❌ خطا در ثبت لاگ ادمین: E11000 duplicate key error collection: movie_uploader_bot.admin_logs index: _id_ dup key: { _id: null }, full error: {'index': 0, 'code': 11000, 'errmsg': 'E11000 duplicate key error collection: movie_uploader_bot.admin_logs index: _id_ dup key: { _id: null }', 'keyPattern': {'_id': 1}, 'keyValue': {'_id': None}}
+2025-08-01 09:17:18,482 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8474219073:AAGRsOQvzpr2vkreux8MAtCfPwqKNzyLvt0/editMessageText "HTTP/1.1 200 OK"
+2025-08-01 09:17:24,926 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8474219073:AAGRsOQvzpr2vkreux8MAtCfPwqKNzyLvt0/getUpdates "HTTP/1.1 409 Conflict"
+2025-08-01 09:17:24,929 - telegram.ext.Updater - ERROR - Exception happened while polling for updates.
+Traceback (most recent call last):
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\ext\_utils\networkloop.py", line 115, in network_retry_loop
+    if not await do_action():
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\ext\_utils\networkloop.py", line 108, in do_action
+    return action_cb_task.result()
+           ~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\ext\_updater.py", line 340, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\ext\_extbot.py", line 670, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<9 lines>...
+    )
+    ^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\_bot.py", line 4611, in get_updates
+    await self._post(
+    ^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    ),
+    ^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\_bot.py", line 698, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\ext\_extbot.py", line 370, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\_bot.py", line 727, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\request\_baserequest.py", line 197, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\request\_baserequest.py", line 374, in _request_wrapper
+    raise exception
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-08-01 09:17:33,853 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8474219073:AAGRsOQvzpr2vkreux8MAtCfPwqKNzyLvt0/getUpdates "HTTP/1.1 409 Conflict"
+2025-08-01 09:17:33,853 - telegram.ext.Updater - ERROR - Exception happened while polling for updates.
+Traceback (most recent call last):
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\ext\_utils\networkloop.py", line 115, in network_retry_loop
+    if not await do_action():
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\ext\_utils\networkloop.py", line 108, in do_action
+    return action_cb_task.result()
+           ~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\ext\_updater.py", line 340, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\ext\_extbot.py", line 670, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<9 lines>...
+    )
+    ^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\_bot.py", line 4611, in get_updates
+    await self._post(
+    ^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    ),
+    ^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\_bot.py", line 698, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\ext\_extbot.py", line 370, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\_bot.py", line 727, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\request\_baserequest.py", line 197, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\request\_baserequest.py", line 374, in _request_wrapper
+    raise exception
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-08-01 09:17:41,501 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8474219073:AAGRsOQvzpr2vkreux8MAtCfPwqKNzyLvt0/getUpdates "HTTP/1.1 409 Conflict"
+2025-08-01 09:17:41,503 - telegram.ext.Updater - ERROR - Exception happened while polling for updates.
+Traceback (most recent call last):
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\ext\_utils\networkloop.py", line 115, in network_retry_loop
+    if not await do_action():
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\ext\_utils\networkloop.py", line 108, in do_action
+    return action_cb_task.result()
+           ~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\ext\_updater.py", line 340, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\ext\_extbot.py", line 670, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<9 lines>...
+    )
+    ^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\_bot.py", line 4611, in get_updates
+    await self._post(
+    ^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    ),
+    ^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\_bot.py", line 698, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\ext\_extbot.py", line 370, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\_bot.py", line 727, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\request\_baserequest.py", line 197, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\request\_baserequest.py", line 374, in _request_wrapper
+    raise exception
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-08-01 09:17:53,445 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8474219073:AAGRsOQvzpr2vkreux8MAtCfPwqKNzyLvt0/getUpdates "HTTP/1.1 409 Conflict"
+2025-08-01 09:17:53,446 - telegram.ext.Updater - ERROR - Exception happened while polling for updates.
+Traceback (most recent call last):
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\ext\_utils\networkloop.py", line 115, in network_retry_loop
+    if not await do_action():
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\ext\_utils\networkloop.py", line 108, in do_action
+    return action_cb_task.result()
+           ~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\ext\_updater.py", line 340, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\ext\_extbot.py", line 670, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<9 lines>...
+    )
+    ^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\_bot.py", line 4611, in get_updates
+    await self._post(
+    ^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    ),
+    ^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\_bot.py", line 698, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\ext\_extbot.py", line 370, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\_bot.py", line 727, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\request\_baserequest.py", line 197, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\request\_baserequest.py", line 374, in _request_wrapper
+    raise exception
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-08-01 09:18:04,309 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8474219073:AAGRsOQvzpr2vkreux8MAtCfPwqKNzyLvt0/getUpdates "HTTP/1.1 200 OK"
+2025-08-01 09:18:04,314 - database - ERROR - ❌ خطا در ثبت لاگ ادمین: E11000 duplicate key error collection: movie_uploader_bot.admin_logs index: _id_ dup key: { _id: null }, full error: {'index': 0, 'code': 11000, 'errmsg': 'E11000 duplicate key error collection: movie_uploader_bot.admin_logs index: _id_ dup key: { _id: null }', 'keyPattern': {'_id': 1}, 'keyValue': {'_id': None}}
+2025-08-01 09:18:09,137 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8474219073:AAGRsOQvzpr2vkreux8MAtCfPwqKNzyLvt0/sendMessage "HTTP/1.1 200 OK"
+2025-08-01 09:18:12,076 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8474219073:AAGRsOQvzpr2vkreux8MAtCfPwqKNzyLvt0/getUpdates "HTTP/1.1 409 Conflict"
+2025-08-01 09:18:12,077 - telegram.ext.Updater - ERROR - Exception happened while polling for updates.
+Traceback (most recent call last):
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\ext\_utils\networkloop.py", line 115, in network_retry_loop
+    if not await do_action():
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\ext\_utils\networkloop.py", line 108, in do_action
+    return action_cb_task.result()
+           ~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\ext\_updater.py", line 340, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\ext\_extbot.py", line 670, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<9 lines>...
+    )
+    ^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\_bot.py", line 4611, in get_updates
+    await self._post(
+    ^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    ),
+    ^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\_bot.py", line 698, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\ext\_extbot.py", line 370, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\_bot.py", line 727, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\request\_baserequest.py", line 197, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\request\_baserequest.py", line 374, in _request_wrapper
+    raise exception
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-08-01 09:18:15,034 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8474219073:AAGRsOQvzpr2vkreux8MAtCfPwqKNzyLvt0/getUpdates "HTTP/1.1 200 OK"
+2025-08-01 09:18:15,036 - database - ERROR - ❌ خطا در ثبت لاگ ادمین: E11000 duplicate key error collection: movie_uploader_bot.admin_logs index: _id_ dup key: { _id: null }, full error: {'index': 0, 'code': 11000, 'errmsg': 'E11000 duplicate key error collection: movie_uploader_bot.admin_logs index: _id_ dup key: { _id: null }', 'keyPattern': {'_id': 1}, 'keyValue': {'_id': None}}
+2025-08-01 09:18:17,316 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8474219073:AAGRsOQvzpr2vkreux8MAtCfPwqKNzyLvt0/sendMessage "HTTP/1.1 200 OK"
+2025-08-01 09:18:20,704 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8474219073:AAGRsOQvzpr2vkreux8MAtCfPwqKNzyLvt0/getUpdates "HTTP/1.1 200 OK"
+2025-08-01 09:18:27,563 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8474219073:AAGRsOQvzpr2vkreux8MAtCfPwqKNzyLvt0/getUpdates "HTTP/1.1 200 OK"
+2025-08-01 09:18:29,232 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8474219073:AAGRsOQvzpr2vkreux8MAtCfPwqKNzyLvt0/getUpdates "HTTP/1.1 409 Conflict"
+2025-08-01 09:18:29,233 - telegram.ext.Updater - ERROR - Exception happened while polling for updates.
+Traceback (most recent call last):
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\ext\_utils\networkloop.py", line 115, in network_retry_loop
+    if not await do_action():
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\ext\_utils\networkloop.py", line 108, in do_action
+    return action_cb_task.result()
+           ~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\ext\_updater.py", line 340, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\ext\_extbot.py", line 670, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<9 lines>...
+    )
+    ^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\_bot.py", line 4611, in get_updates
+    await self._post(
+    ^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    ),
+    ^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\_bot.py", line 698, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\ext\_extbot.py", line 370, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\_bot.py", line 727, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\request\_baserequest.py", line 197, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\request\_baserequest.py", line 374, in _request_wrapper
+    raise exception
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-08-01 10:48:56,670 - __main__ - INFO - ==================================================
+2025-08-01 10:48:56,670 - __main__ - INFO - 🎬 ربات آپلودر فیلم و سریال
+2025-08-01 10:48:56,671 - __main__ - INFO - ==================================================
+2025-08-01 10:48:56,671 - __main__ - INFO - 🚀 شروع مقداردهی ربات...
+2025-08-01 10:48:56,671 - config - INFO - ✅ تنظیمات معتبر است
+2025-08-01 10:48:56,671 - config - INFO - 📁 دایرکتوری ایجاد شد: temp
+2025-08-01 10:48:56,671 - config - INFO - 📁 دایرکتوری ایجاد شد: downloads
+2025-08-01 10:48:56,672 - database - INFO - 🔌 در حال اتصال به MongoDB...
+2025-08-01 10:48:56,745 - database - INFO - ✅ ایندکس‌ها ایجاد شدند
+2025-08-01 10:48:56,746 - database - INFO - ✅ اتصال به MongoDB برقرار شد
+2025-08-01 10:48:57,388 - __main__ - INFO - ✅ اپلیکیشن تلگرام ایجاد شد
+2025-08-01 10:48:57,388 - __main__ - INFO - ✅ مدیر فایل ایجاد شد
+2025-08-01 10:48:57,388 - handlers - INFO - ✅ AdminPanel مقداردهی شد
+2025-08-01 10:48:57,391 - handlers - INFO - ✅ مکالمه ایجاد مجموعه تنظیم شد
+2025-08-01 10:48:57,391 - handlers - INFO - ✅ تمام هندلرها تنظیم شدند
+2025-08-01 10:48:57,391 - __main__ - INFO - ✅ هندلرها تنظیم شدند
+2025-08-01 10:48:57,391 - __main__ - INFO - 🎉 ربات آماده به کار است!
+2025-08-01 10:48:57,392 - __main__ - INFO - 🔄 شروع ربات...
+2025-08-01 10:48:57,392 - download_manager - INFO - ✅ HTTP session شروع شد
+2025-08-01 10:49:02,404 - __main__ - ERROR - ❌ خطا در اجرای ربات: Timed out
+2025-08-01 10:49:02,405 - __main__ - INFO - 🧹 پاکسازی منابع...
+2025-08-01 10:49:02,405 - download_manager - INFO - 🔒 HTTP session بسته شد
+2025-08-01 10:49:02,407 - database - INFO - 🔌 اتصال MongoDB قطع شد
+2025-08-01 10:49:02,407 - __main__ - INFO - ✅ پاکسازی تکمیل شد
+2025-08-01 10:49:02,407 - __main__ - ERROR - ❌ ربات با خطا متوقف شد
+2025-08-01 11:36:00,042 - __main__ - INFO - ==================================================
+2025-08-01 11:36:00,042 - __main__ - INFO - 🎬 ربات آپلودر فیلم و سریال
+2025-08-01 11:36:00,042 - __main__ - INFO - ==================================================
+2025-08-01 11:36:00,042 - __main__ - INFO - 🚀 شروع مقداردهی ربات...
+2025-08-01 11:36:00,042 - config - INFO - ✅ تنظیمات معتبر است
+2025-08-01 11:36:00,043 - config - INFO - 📁 دایرکتوری ایجاد شد: temp
+2025-08-01 11:36:00,043 - config - INFO - 📁 دایرکتوری ایجاد شد: downloads
+2025-08-01 11:36:00,043 - database - INFO - 🔌 در حال اتصال به MongoDB...
+2025-08-01 11:36:00,064 - database - INFO - ✅ ایندکس‌ها ایجاد شدند
+2025-08-01 11:36:00,064 - database - INFO - ✅ اتصال به MongoDB برقرار شد
+2025-08-01 11:36:00,730 - __main__ - INFO - ✅ اپلیکیشن تلگرام ایجاد شد
+2025-08-01 11:36:00,730 - __main__ - INFO - ✅ مدیر فایل ایجاد شد
+2025-08-01 11:36:00,730 - handlers - INFO - ✅ AdminPanel مقداردهی شد
+2025-08-01 11:36:00,733 - handlers - INFO - ✅ مکالمه ایجاد مجموعه تنظیم شد
+2025-08-01 11:36:00,733 - handlers - INFO - ✅ تمام هندلرها تنظیم شدند
+2025-08-01 11:36:00,733 - __main__ - INFO - ✅ هندلرها تنظیم شدند
+2025-08-01 11:36:00,733 - __main__ - INFO - 🎉 ربات آماده به کار است!
+2025-08-01 11:36:00,733 - __main__ - INFO - 🔄 شروع ربات...
+2025-08-01 11:36:00,734 - download_manager - INFO - ✅ HTTP session شروع شد
+2025-08-01 11:36:05,755 - __main__ - ERROR - ❌ خطا در اجرای ربات: Timed out
+2025-08-01 11:36:05,755 - __main__ - INFO - 🧹 پاکسازی منابع...
+2025-08-01 11:36:05,755 - download_manager - INFO - 🔒 HTTP session بسته شد
+2025-08-01 11:36:05,756 - database - INFO - 🔌 اتصال MongoDB قطع شد
+2025-08-01 11:36:05,757 - __main__ - INFO - ✅ پاکسازی تکمیل شد
+2025-08-01 11:36:05,757 - __main__ - ERROR - ❌ ربات با خطا متوقف شد
+2025-08-01 11:39:58,948 - __main__ - INFO - ==================================================
+2025-08-01 11:39:58,949 - __main__ - INFO - 🎬 ربات آپلودر فیلم و سریال
+2025-08-01 11:39:58,949 - __main__ - INFO - ==================================================
+2025-08-01 11:39:58,949 - __main__ - INFO - 🚀 شروع مقداردهی ربات...
+2025-08-01 11:39:58,949 - config - INFO - ✅ تنظیمات معتبر است
+2025-08-01 11:39:58,950 - config - INFO - 📁 دایرکتوری ایجاد شد: temp
+2025-08-01 11:39:58,950 - config - INFO - 📁 دایرکتوری ایجاد شد: downloads
+2025-08-01 11:39:58,950 - database - INFO - 🔌 در حال اتصال به MongoDB...
+2025-08-01 11:39:59,006 - database - INFO - ✅ ایندکس‌ها ایجاد شدند
+2025-08-01 11:39:59,006 - database - INFO - ✅ اتصال به MongoDB برقرار شد
+2025-08-01 11:39:59,652 - __main__ - INFO - ✅ اپلیکیشن تلگرام ایجاد شد
+2025-08-01 11:39:59,652 - __main__ - INFO - ✅ مدیر فایل ایجاد شد
+2025-08-01 11:39:59,652 - handlers - INFO - ✅ AdminPanel مقداردهی شد
+2025-08-01 11:39:59,654 - handlers - INFO - ✅ مکالمه ایجاد مجموعه تنظیم شد
+2025-08-01 11:39:59,654 - handlers - INFO - ✅ تمام هندلرها تنظیم شدند
+2025-08-01 11:39:59,655 - __main__ - INFO - ✅ هندلرها تنظیم شدند
+2025-08-01 11:39:59,655 - __main__ - INFO - 🎉 ربات آماده به کار است!
+2025-08-01 11:39:59,655 - __main__ - INFO - 🔄 شروع ربات...
+2025-08-01 11:39:59,655 - download_manager - INFO - ✅ HTTP session شروع شد
+2025-08-01 11:40:01,600 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8474219073:AAGRsOQvzpr2vkreux8MAtCfPwqKNzyLvt0/getMe "HTTP/1.1 200 OK"
+2025-08-01 11:40:01,601 - telegram.ext.Application - INFO - Application started
+2025-08-01 11:40:03,093 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8474219073:AAGRsOQvzpr2vkreux8MAtCfPwqKNzyLvt0/deleteWebhook "HTTP/1.1 200 OK"
+2025-08-01 11:40:03,094 - __main__ - INFO - ✅ ربات شروع شد و منتظر پیام‌ها است
+2025-08-01 11:40:04,555 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8474219073:AAGRsOQvzpr2vkreux8MAtCfPwqKNzyLvt0/getUpdates "HTTP/1.1 200 OK"
+2025-08-01 11:40:04,558 - database - ERROR - ❌ خطا در ثبت لاگ ادمین: E11000 duplicate key error collection: movie_uploader_bot.admin_logs index: _id_ dup key: { _id: null }, full error: {'index': 0, 'code': 11000, 'errmsg': 'E11000 duplicate key error collection: movie_uploader_bot.admin_logs index: _id_ dup key: { _id: null }', 'keyPattern': {'_id': 1}, 'keyValue': {'_id': None}}
+2025-08-01 11:40:04,846 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8474219073:AAGRsOQvzpr2vkreux8MAtCfPwqKNzyLvt0/sendMessage "HTTP/1.1 200 OK"
+2025-08-01 11:40:08,719 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8474219073:AAGRsOQvzpr2vkreux8MAtCfPwqKNzyLvt0/getUpdates "HTTP/1.1 200 OK"
+2025-08-01 11:40:08,722 - database - ERROR - ❌ خطا در ثبت لاگ ادمین: E11000 duplicate key error collection: movie_uploader_bot.admin_logs index: _id_ dup key: { _id: null }, full error: {'index': 0, 'code': 11000, 'errmsg': 'E11000 duplicate key error collection: movie_uploader_bot.admin_logs index: _id_ dup key: { _id: null }', 'keyPattern': {'_id': 1}, 'keyValue': {'_id': None}}
+2025-08-01 11:40:08,722 - admin_panel - ERROR - خطا در نمایش پنل ادمین: 'NoneType' object has no attribute 'reply_text'
+2025-08-01 11:40:08,734 - handlers - ERROR - خطا برای کاربر 8113814460: 'NoneType' object has no attribute 'reply_text'
+Update: Update(callback_query=CallbackQuery(chat_instance='5661636147970673025', data='back_to_main', from_user=User(first_name='აჰუ', id=8113814460, is_bot=False, language_code='en', username='Ahuradev'), id='7178451642156617487', message=Message(channel_chat_created=False, chat=Chat(first_name='აჰუ', id=8113814460, type=<ChatType.PRIVATE>, username='Ahuradev'), date=datetime.datetime(2025, 8, 1, 18, 40, 3, tzinfo=datetime.timezone.utc), delete_chat_photo=False, entities=(MessageEntity(length=13, offset=3, type=<MessageEntityType.BOLD>), MessageEntity(length=1, offset=31, type=<MessageEntityType.BOLD>), MessageEntity(length=1, offset=45, type=<MessageEntityType.BOLD>), MessageEntity(length=1, offset=59, type=<MessageEntityType.BOLD>), MessageEntity(length=1, offset=81, type=<MessageEntityType.BOLD>), MessageEntity(length=17, offset=86, type=<MessageEntityType.BOLD>), MessageEntity(length=23, offset=104, type=<MessageEntityType.ITALIC>)), from_user=User(first_name='MTmove', id=8474219073, is_bot=True, username='mtmovebot'), group_chat_created=False, message_id=254, reply_markup=InlineKeyboardMarkup(inline_keyboard=((InlineKeyboardButton(callback_data='refresh_statistics', text='🔄 بروزرسانی'), InlineKeyboardButton(callback_data='detailed_statistics', text='📈 آمار تفصیلی')), (InlineKeyboardButton(callback_data='full_report', text='📋 گزارش کامل'), InlineKeyboardButton(callback_data='statistics_chart', text='📊 نمودار')), (InlineKeyboardButton(callback_data='back_to_main', text='🔙 بازگشت'),))), supergroup_chat_created=False, text='📊 آمار کلی ربات\n📚 مجموعه\u200cها: 0\n🎥 ویدیوها: 0\n👥 کاربران: 1\n⬇️ دانلودهای امروز: 0\n🔥 محبوب\u200cترین محتوا:\nهنوز داده\u200cای موجود نیست')), update_id=612702226)
+2025-08-01 11:40:09,011 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8474219073:AAGRsOQvzpr2vkreux8MAtCfPwqKNzyLvt0/sendMessage "HTTP/1.1 200 OK"
+2025-08-01 11:40:09,344 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8474219073:AAGRsOQvzpr2vkreux8MAtCfPwqKNzyLvt0/sendMessage "HTTP/1.1 200 OK"
+2025-08-01 11:40:18,849 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8474219073:AAGRsOQvzpr2vkreux8MAtCfPwqKNzyLvt0/getUpdates "HTTP/1.1 200 OK"
+2025-08-01 11:40:18,851 - database - ERROR - ❌ خطا در ثبت لاگ ادمین: E11000 duplicate key error collection: movie_uploader_bot.admin_logs index: _id_ dup key: { _id: null }, full error: {'index': 0, 'code': 11000, 'errmsg': 'E11000 duplicate key error collection: movie_uploader_bot.admin_logs index: _id_ dup key: { _id: null }', 'keyPattern': {'_id': 1}, 'keyValue': {'_id': None}}
+2025-08-01 11:40:19,823 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8474219073:AAGRsOQvzpr2vkreux8MAtCfPwqKNzyLvt0/sendMessage "HTTP/1.1 200 OK"
+2025-08-01 11:40:23,830 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8474219073:AAGRsOQvzpr2vkreux8MAtCfPwqKNzyLvt0/getUpdates "HTTP/1.1 200 OK"
+2025-08-01 11:40:24,122 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8474219073:AAGRsOQvzpr2vkreux8MAtCfPwqKNzyLvt0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-08-01 11:40:24,124 - database - ERROR - ❌ خطا در ثبت لاگ ادمین: E11000 duplicate key error collection: movie_uploader_bot.admin_logs index: _id_ dup key: { _id: null }, full error: {'index': 0, 'code': 11000, 'errmsg': 'E11000 duplicate key error collection: movie_uploader_bot.admin_logs index: _id_ dup key: { _id: null }', 'keyPattern': {'_id': 1}, 'keyValue': {'_id': None}}
+2025-08-01 11:40:24,822 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8474219073:AAGRsOQvzpr2vkreux8MAtCfPwqKNzyLvt0/editMessageText "HTTP/1.1 200 OK"
+2025-08-01 11:40:31,476 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8474219073:AAGRsOQvzpr2vkreux8MAtCfPwqKNzyLvt0/getUpdates "HTTP/1.1 200 OK"
+2025-08-01 11:40:33,449 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8474219073:AAGRsOQvzpr2vkreux8MAtCfPwqKNzyLvt0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-08-01 11:40:34,497 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8474219073:AAGRsOQvzpr2vkreux8MAtCfPwqKNzyLvt0/editMessageText "HTTP/1.1 200 OK"
+2025-08-01 11:40:40,924 - telegram.ext.Updater - ERROR - Exception happened while polling for updates.
+Traceback (most recent call last):
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\httpx\_transports\default.py", line 101, in map_httpcore_exceptions
+    yield
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\httpx\_transports\default.py", line 394, in handle_async_request
+    resp = await self._pool.handle_async_request(req)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\httpcore\_async\connection_pool.py", line 256, in handle_async_request
+    raise exc from None
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\httpcore\_async\connection_pool.py", line 236, in handle_async_request
+    response = await connection.handle_async_request(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        pool_request.request
+        ^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\httpcore\_async\connection.py", line 103, in handle_async_request
+    return await self._connection.handle_async_request(request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\httpcore\_async\http11.py", line 136, in handle_async_request
+    raise exc
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\httpcore\_async\http11.py", line 106, in handle_async_request
+    ) = await self._receive_response_headers(**kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\httpcore\_async\http11.py", line 177, in _receive_response_headers
+    event = await self._receive_event(timeout=timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\httpcore\_async\http11.py", line 231, in _receive_event
+    raise RemoteProtocolError(msg)
+httpcore.RemoteProtocolError: Server disconnected without sending a response.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\request\_httpxrequest.py", line 273, in do_request
+    res = await self._client.request(
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\httpx\_client.py", line 1540, in request
+    return await self.send(request, auth=auth, follow_redirects=follow_redirects)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\httpx\_client.py", line 1629, in send
+    response = await self._send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\httpx\_client.py", line 1657, in _send_handling_auth
+    response = await self._send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\httpx\_client.py", line 1694, in _send_handling_redirects
+    response = await self._send_single_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\httpx\_client.py", line 1730, in _send_single_request
+    response = await transport.handle_async_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\httpx\_transports\default.py", line 393, in handle_async_request
+    with map_httpcore_exceptions():
+         ~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\contextlib.py", line 162, in __exit__
+    self.gen.throw(value)
+    ~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\httpx\_transports\default.py", line 118, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.RemoteProtocolError: Server disconnected without sending a response.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\ext\_utils\networkloop.py", line 115, in network_retry_loop
+    if not await do_action():
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\ext\_utils\networkloop.py", line 108, in do_action
+    return action_cb_task.result()
+           ~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\ext\_updater.py", line 340, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\ext\_extbot.py", line 670, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<9 lines>...
+    )
+    ^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\_bot.py", line 4611, in get_updates
+    await self._post(
+    ^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    ),
+    ^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\_bot.py", line 698, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\ext\_extbot.py", line 370, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\_bot.py", line 727, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\request\_baserequest.py", line 197, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\request\_baserequest.py", line 304, in _request_wrapper
+    code, payload = await self.do_request(
+                    ^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "C:\Users\ahura\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\request\_httpxrequest.py", line 297, in do_request
+    raise NetworkError(f"httpx.{err.__class__.__name__}: {err}") from err
+telegram.error.NetworkError: httpx.RemoteProtocolError: Server disconnected without sending a response.
